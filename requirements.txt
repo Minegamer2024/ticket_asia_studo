@@ -1,0 +1,4 @@
+discord
+emoji
+art
+python-dotenv
